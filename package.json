@@ -1,0 +1,12 @@
+{
+  "name": "matrix-card",
+  "version": "0.2.0",
+  "description": "Home Assistant Lovelace card that renders one or more select entities as a clickable routing matrix.",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Videobarista/matrix-card"
+  },
+  "main": "matrix-card.js"
+}
